@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+- #### Name: [CHANCHAL KUNTAL](https://github.com/Chanchal-D)
+- Place: UTTAR PRADESH, INDIA
+- Bio: FRONTEND DEVELOPER AND CONTENT WRITER
+- GitHub: [Chanchal-D](https://github.com/Chanchal-D)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
